@@ -364,7 +364,7 @@ a {
 }
 #content p {
   color: #fff;
-  line-height: 24px;
+  line-height: 20px;
 }
 #content .user-info {
   background: #000;
@@ -374,4 +374,15 @@ a {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
+}
+#content .user-info a {
+  color: #fff;
+}
+#about #content .introduction {
+  background: #fff;
+  height: 500px;
+  padding: 20px;
+}
+#about #content .introduction p {
+  color: #333;
 }
